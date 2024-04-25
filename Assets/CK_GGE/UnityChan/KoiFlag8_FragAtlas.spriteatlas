@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KoiFlag8_FragAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a0f85395c3afd5546919fb9570698aa4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 570cd510c7161ab429daa169da8bd855: 21300000
+    - 5a256d100a37bb94db681d4a49b14b35: 21300000
+    - 50f9df801991eef40a1b18fa42b3108b: 21300000
+    - a61b4ab09e1214c418128789ebd554c3: 21300000
+    - 777bd141f367e24478237c303f74bc9b: 21300000
+    - dba7df71ea472594f9d4e11de87883c6: 21300000
+    - 5749e29227f20894e86b21605084ec3a: 21300000
+    - 045169e2b26cf2e4f803b4de4262c3ca: 21300000
+    - 36485475bcaabfb4185e28c6dd793928: 21300000
+    - bceb8195c51e63747abb304f4ef1e356: 21300000
+    - d9149fc529845984fb65023b1e9d7859: 21300000
+    - 91e7e76671acc584aaf98d2b9b97712e: 21300000
+    - 98afe876771b21040b4c3aacacdbfc93: 21300000
+    - 8f85df9637496624fb8621fcc82ab600: 21300000
+    - d77d8ac6de8927f4494839fdee0d9406: 21300000
+    - 5e71626786fe5564d9b91725d1a77da8: 21300000
+    - 9987c8a7ad8cec14299d4b0c4ef73407: 21300000
+    - 262b54186a3d7344e857fa3c0073f280: 21300000
+    - 2159426835dd5b0479b6707ecf91cdef: 21300000
+    - fd7c7a2955edf9541872fb875baa14d0: 21300000
+    - 3b5204ca0e33e814a865c8c20a7f0e46: 21300000
+    - 1bd98f8b930e41040aac3b92d702d9b6: 21300000
+    - c138dfabacabeb04f8ca0092770683b5: 21300000
+    - 83414e1c3fbb23f479d828a8b9c8df8c: 21300000
+    - 1f027b9c7a9926e4f9f748449a979ef4: 21300000
+    - 4a1ddd0d94581104abb83e447cc66601: 21300000
+    - 569b056dd11ff454780b36940ec40438: 21300000
+    - 35f4894f597c154419d1bcfdbdcfd205: 21300000
+    - a8e8617fe1a0c7b4c8b48634cf0f8b0e: 21300000
+    - f8ceae8f36f3a744a8ee8412ef1e3c52: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 570cd510c7161ab429daa169da8bd855, type: 3}
+  - {fileID: 21300000, guid: 5a256d100a37bb94db681d4a49b14b35, type: 3}
+  - {fileID: 21300000, guid: 50f9df801991eef40a1b18fa42b3108b, type: 3}
+  - {fileID: 21300000, guid: a61b4ab09e1214c418128789ebd554c3, type: 3}
+  - {fileID: 21300000, guid: 777bd141f367e24478237c303f74bc9b, type: 3}
+  - {fileID: 21300000, guid: dba7df71ea472594f9d4e11de87883c6, type: 3}
+  - {fileID: 21300000, guid: 5749e29227f20894e86b21605084ec3a, type: 3}
+  - {fileID: 21300000, guid: 045169e2b26cf2e4f803b4de4262c3ca, type: 3}
+  - {fileID: 21300000, guid: 36485475bcaabfb4185e28c6dd793928, type: 3}
+  - {fileID: 21300000, guid: bceb8195c51e63747abb304f4ef1e356, type: 3}
+  - {fileID: 21300000, guid: d9149fc529845984fb65023b1e9d7859, type: 3}
+  - {fileID: 21300000, guid: 91e7e76671acc584aaf98d2b9b97712e, type: 3}
+  - {fileID: 21300000, guid: 98afe876771b21040b4c3aacacdbfc93, type: 3}
+  - {fileID: 21300000, guid: 8f85df9637496624fb8621fcc82ab600, type: 3}
+  - {fileID: 21300000, guid: d77d8ac6de8927f4494839fdee0d9406, type: 3}
+  - {fileID: 21300000, guid: 5e71626786fe5564d9b91725d1a77da8, type: 3}
+  - {fileID: 21300000, guid: 9987c8a7ad8cec14299d4b0c4ef73407, type: 3}
+  - {fileID: 21300000, guid: 262b54186a3d7344e857fa3c0073f280, type: 3}
+  - {fileID: 21300000, guid: 2159426835dd5b0479b6707ecf91cdef, type: 3}
+  - {fileID: 21300000, guid: fd7c7a2955edf9541872fb875baa14d0, type: 3}
+  - {fileID: 21300000, guid: 3b5204ca0e33e814a865c8c20a7f0e46, type: 3}
+  - {fileID: 21300000, guid: 1bd98f8b930e41040aac3b92d702d9b6, type: 3}
+  - {fileID: 21300000, guid: c138dfabacabeb04f8ca0092770683b5, type: 3}
+  - {fileID: 21300000, guid: 83414e1c3fbb23f479d828a8b9c8df8c, type: 3}
+  - {fileID: 21300000, guid: 1f027b9c7a9926e4f9f748449a979ef4, type: 3}
+  - {fileID: 21300000, guid: 4a1ddd0d94581104abb83e447cc66601, type: 3}
+  - {fileID: 21300000, guid: 569b056dd11ff454780b36940ec40438, type: 3}
+  - {fileID: 21300000, guid: 35f4894f597c154419d1bcfdbdcfd205, type: 3}
+  - {fileID: 21300000, guid: a8e8617fe1a0c7b4c8b48634cf0f8b0e, type: 3}
+  - {fileID: 21300000, guid: f8ceae8f36f3a744a8ee8412ef1e3c52, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UC__0016_Skirt3-1
+  - UC__0020_EyeHilght
+  - UC__0009_HairFront2
+  - UC__0006_LHand
+  - UC__0022_Neck
+  - UC__0029_Skirt3-2
+  - UC__0007_LArm
+  - UC__0018_LegL
+  - UC__0024_HairMain1
+  - UC__0010_HairFront3
+  - UC__0000_FlagA
+  - UC__0028_LegR
+  - UC__0030_Skirt5
+  - UC__0021_Face
+  - UC__0004_LFinger
+  - UC__0013_Ribon1
+  - UC__0023_NeckBack
+  - UC__0017_Skirt4
+  - UC__0008_HairFront1
+  - UC__0019_Body
+  - UC__0026_HairFront6
+  - UC__0014_Skirt1
+  - UC__0003_RForeArm
+  - UC__0012_HairFront5
+  - UC__0027_Ribon2
+  - UC__0005_Staff
+  - UC__0015_Skirt2
+  - UC__0025_HairMain2
+  - UC__0001_FlagB
+  - UC__0011_HairFront4
+  m_RenderDataMap: {}
+  m_Tag: KoiFlag8_FragAtlas
+  m_IsVariant: 0
