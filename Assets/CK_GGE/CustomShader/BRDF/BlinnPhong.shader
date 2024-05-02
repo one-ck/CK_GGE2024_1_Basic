@@ -75,6 +75,7 @@ Shader "Custom/BRDF/BlinnPhong"
             ENDHLSL
         }
         UsePass "Universal Render Pipeline/Lit/ShadowCaster"
-        UsePass "Universal Render Pipeline/Unlit/DepthNormalsOnly" // URP 렌더 파이프라인 에셋에서 Depth Priming Mode를 켜면 DepthNormals 패스가 반드시 필요하다.
+        UsePass "Universal Render Pipeline/Lit/DepthOnly" // URP 렌더 파이프라인 에셋에서 Depth Priming Mode를 켜면 DepthNormals 패스가 반드시 필요하다.
+        UsePass "Universal Render Pipeline/Lit/DepthNormals" // URP 렌더 파이프라인 에셋에서 Depth Priming Mode를 켜면 DepthNormals 패스가 반드시 필요하다.
     }
 }
