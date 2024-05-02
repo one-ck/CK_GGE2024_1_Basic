@@ -598,9 +598,11 @@ TextMesh:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 305212296}
   m_Text: "Unity 2022.3.20 \uBC84\uC804\uC5D0\uC11C Alpha Clipping\uC774 \uC81C\uB300\uB85C
-    \uB098\uC624\uC9C0 \uC54A\uB294 \uBB38\uC81C\uAC00 \uC788\uC74C.\nShader Graph\uB294
-    \uC815\uC0C1 \uC791\uB3D9\uD558\uB294\uB370, URP \uAE30\uBCF8 \uC7AC\uC9C8\uC5D0\uC11C\n\uC54C\uD30C
-    \uD074\uB9AC\uD551\uC744 \uCF1C\uBA74 \uB80C\uB354\uB9C1 \uB418\uC9C0 \uC54A\uC74C."
+    \uB098\uC624\uC9C0 \uC54A\uB294 \uBB38\uC81C\uAC00 \uC788\uC74C.\n\uB80C\uB354\uB7EC
+    \uD53C\uCCD0\uC758 \uB381\uC2A4 \uB178\uBA40 \uB370\uCE7C\uC774\uB098 SSAO \uAE30\uB2A5\uACFC
+    \uCDA9\uB3CC\uD568.\nShader Graph\uB294 \uC815\uC0C1 \uC791\uB3D9\uD558\uB294\uB370,
+    URP \uAE30\uBCF8 \uC7AC\uC9C8\uC5D0\uC11C\n\uC54C\uD30C \uD074\uB9AC\uD551\uC744
+    \uCF1C\uBA74 \uB80C\uB354\uB9C1 \uB418\uC9C0 \uC54A\uC74C."
   m_OffsetZ: 0
   m_CharacterSize: 0.02
   m_LineSpacing: 1
@@ -613,7 +615,7 @@ TextMesh:
   m_Font: {fileID: 0}
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278190335
 --- !u!23 &305212298
 MeshRenderer:
   m_ObjectHideFlags: 0
