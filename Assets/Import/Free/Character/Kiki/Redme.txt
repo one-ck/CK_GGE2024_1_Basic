@@ -1,0 +1,7 @@
+URPToonLitShader not included.
+
+Download The URPToonLitShader here:
+https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+
+You can easily change eye and hair color in material
+The hair is riged,ready to use dynamic bone
