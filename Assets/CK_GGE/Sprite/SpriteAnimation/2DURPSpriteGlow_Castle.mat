@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 2DURPSpriteCustom_Castle
+  m_Name: 2DURPSpriteGlow_Castle
   m_Shader: {fileID: -6465566751694194690, guid: 394aaddbb07f9b34aa802fe4a07f44fd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0

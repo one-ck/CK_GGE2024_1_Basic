@@ -20,11 +20,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MinoGlow
+  m_Name: MinoGlow_MaskB
   m_Shader: {fileID: -6465566751694194690, guid: 394aaddbb07f9b34aa802fe4a07f44fd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _USE_EMISSION_R
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -67,8 +68,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _EnableExternalAlpha: 0
+    - _USE_COLORMULTIPLY: 0
+    - _USE_EMISSION_R: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorMultiply: {r: 67.793526, g: 67.793526, b: 67.793526, a: 0}
     - _ColorMultiplyMaskB: {r: 90.50967, g: 5.1539426, b: 0, a: 0}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
