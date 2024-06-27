@@ -12,9 +12,10 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _USE_EMISSION_R
+  - _COLORMULTIPLYMASK__MASKTEX_B
   m_InvalidKeywords:
   - _USECOLORMULTIPLY
+  - _USE_EMISSION_R
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -96,6 +97,7 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
+    - _COLORMULTIPLYMASK: 0
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
